@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.example.coverboard.MainActivity"
+    android:supportsSwitchingToNextInputMethod="true">
+
+    <subtype
+        android:imeSubtypeLocale="en_US"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (US)" />
+    <subtype
+        android:imeSubtypeLocale="en_GB"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (UK)" />
+    <subtype
+        android:imeSubtypeLocale="en_IN"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (India)" />
+    <subtype
+        android:imeSubtypeLocale="en_AU"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (Australia)" />
+    <subtype
+        android:imeSubtypeLocale="en_CA"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (Canada)" />
+    <subtype
+        android:imeSubtypeLocale="en_IE"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (Ireland)" />
+    <subtype
+        android:imeSubtypeLocale="en_NZ"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (New Zealand)" />
+    <subtype
+        android:imeSubtypeLocale="en_ZA"
+        android:imeSubtypeMode="keyboard"
+        android:label="English (South Africa)" />
+    <subtype
+        android:imeSubtypeLocale="es_ES"
+        android:imeSubtypeMode="keyboard"
+        android:label="Español" />
+    <subtype
+        android:imeSubtypeLocale="fr_FR"
+        android:imeSubtypeMode="keyboard"
+        android:label="Français" />
+    <subtype
+        android:imeSubtypeLocale="de_DE"
+        android:imeSubtypeMode="keyboard"
+        android:label="Deutsch" />
+    <subtype
+        android:imeSubtypeLocale="it_IT"
+        android:imeSubtypeMode="keyboard"
+        android:label="Italiano" />
+    <subtype
+        android:imeSubtypeLocale="pt_BR"
+        android:imeSubtypeMode="keyboard"
+        android:label="Português" />
+    <subtype
+        android:imeSubtypeLocale="nl_NL"
+        android:imeSubtypeMode="keyboard"
+        android:label="Nederlands" />
+    <subtype
+        android:imeSubtypeLocale="hi_IN"
+        android:imeSubtypeMode="keyboard"
+        android:label="हिन्दी" />
+</input-method>
